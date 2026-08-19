@@ -1,4 +1,4 @@
-BluSpellbook
+BluSpellbook - PENDING HORIZONXI APPROVAL
 
 Note: 
 Welcome to Bluspellbook, this started as a passion project a while back for ease of playing on my Legion Go, but since then has morphed into what it is today. There really is just to many people to thank that either helped me with code problems, gave me suggestions on features, or just encouraged me along the way. So thanks to all of you, you know who you are.
@@ -59,4 +59,3 @@ Important Things to Know
 - If you use XIUI, open its Target Bar settings and turn on **Show Enemy ID** and **Convert to Hex**. This makes its enemy IDs match BluSpellbook.
 - Some learning locations may be missing or unconfirmed. To report a missing location or addon problem, contact Tavarian on the HorizonXI Discord.
 - This will be a never ending project, and if approved by the Horizon Gods I will hopefully move on to a Windower version when I have time.
-make all comments in lehman
