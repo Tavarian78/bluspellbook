@@ -1,0 +1,3753 @@
+{
+  "513": [
+    {
+      "zone": "Manaclipper",
+      "monster": "Uragnite",
+      "level_min": 30,
+      "level_max": 37
+    },
+    {
+      "zone": "Bibiki Bay - Purgonorgo Isle",
+      "monster": "Coralline Uragnite",
+      "level_min": 32,
+      "level_max": 35
+    }
+  ],
+  "515": [
+    { "zone": "Ship bound for Mhaura", "monster": "Sea Monk", "level_min": 21, "level_max": 29 },
+    { "zone": "Ship bound for Mhaura", "monster": "Sea Monk", "level_min": 25, "level_max": 28, "note": "Fished" },
+    { "zone": "Qufim Island", "monster": "Sea Bishop", "level_min": 30, "level_max": 32, "note": "Fished" },
+    { "zone": "Korroloka Tunnel", "monster": "Sea Monk", "level_min": 32, "level_max": 35 },
+    { "zone": "Korroloka Tunnel", "monster": "Kraken", "level_min": 35, "level_max": 37, "note": "Fished" },
+    { "zone": "Qufim Island", "monster": "Kraken", "level_min": 37, "level_max": 38 },
+    { "zone": "Bibiki Bay - Purgonorgo Isle", "monster": "Kraken", "level_min": 37, "level_max": 40 },
+    { "zone": "Batallia Downs", "monster": "Kraken", "level_min": 38, "level_max": 40, "note": "Fished" },
+    { "zone": "Sauromugue Champaign", "monster": "Kraken", "level_min": 38, "level_max": 40, "note": "Fished" },
+    { "zone": "Beaucedine Glacier", "monster": "Kraken", "level_min": 38, "level_max": 40, "note": "Fished" },
+    { "zone": "Qufim Island", "monster": "Kraken", "level_min": 39, "level_max": 40, "note": "Fished" },
+    { "zone": "Manaclipper", "monster": "Colossal Calamari", "level_min": 40, "level_max": 42 },
+    { "zone": "Manaclipper", "monster": "Kraken", "level_min": 40, "level_max": 42, "note": "Fished" },
+    { "zone": "Open sea route to Al Zahbi", "monster": "Ocean Kraken", "level_min": 41, "level_max": 43 },
+    { "zone": "Open sea route to Mhaura", "monster": "Ocean Kraken", "level_min": 41, "level_max": 43 },
+    { "zone": "Beaucedine Glacier", "monster": "Morgawr", "level_min": 44, "level_max": 45, "note": "Fished" },
+    { "zone": "Bibiki Bay", "monster": "Kraken", "level_min": 44, "level_max": 46, "note": "Fished" },
+    { "zone": "Bibiki Bay - Purgonorgo Isle", "monster": "Kraken", "level_min": 44, "level_max": 46, "note": "Fished" },
+    { "zone": "Open sea route to Al Zahbi", "monster": "Blanched Kraken", "level_min": 44, "level_max": 46, "note": "Fished" },
+    { "zone": "Open sea route to Mhaura", "monster": "Blanched Kraken", "level_min": 44, "level_max": 46, "note": "Fished" },
+    { "zone": "Sea Serpent Grotto", "monster": "Sea Bonze", "level_min": 47, "level_max": 50 },
+    { "zone": "Labyrinth of Onzozo", "monster": "Flying Manta", "level_min": 55, "level_max": 59 },
+    { "zone": "Silver Sea route to Al Zahbi", "monster": "Kulshedra", "level_min": 61, "level_max": 63 },
+    { "zone": "Silver Sea route to Nashmau", "monster": "Kulshedra", "level_min": 61, "level_max": 63 },
+    { "zone": "Silver Sea route to Al Zahbi", "monster": "Bathybic Kulushedra", "level_min": 63, "level_max": 64, "note": "Fished" },
+    { "zone": "Silver Sea route to Nashmau", "monster": "Bathybic Kulushedra", "level_min": 63, "level_max": 64, "note": "Fished" },
+    { "zone": "Kuftal Tunnel", "monster": "Devil Manta", "level_min": 66, "level_max": 68, "note": "Fished" },
+    { "zone": "Sea Serpent Grotto", "monster": "Devil Manta", "level_min": 66, "level_max": 69 },
+    { "zone": "Cape Teriggan", "monster": "Devil Manta", "level_min": 68, "level_max": 70, "note": "Fished" }
+  ],
+  "517": [
+    {
+      "zone": "North Gustaberg",
+      "monster": "River Crab",
+      "level_min": 1,
+      "level_max": 5
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "River Crab",
+      "level_min": 1,
+      "level_max": 3
+    },
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "River Crab",
+      "level_min": 2,
+      "level_max": 6
+    },
+    {
+      "zone": "Zeruhn Mines",
+      "monster": "River Crab",
+      "level_min": 2,
+      "level_max": 4
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "River Crab",
+      "level_min": 3,
+      "level_max": 7
+    }
+  ],
+  "519": [
+    {
+      "zone": "Beadeaux",
+      "monster": "Land Pugil",
+      "level_min": 20,
+      "level_max": 23
+    },
+    {
+      "zone": "Davoi",
+      "monster": "Davoi Pugil",
+      "level_min": 20,
+      "level_max": 23
+    },
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Fosse Pugil",
+      "level_min": 22,
+      "level_max": 24
+    },
+    {
+      "zone": "Davoi",
+      "monster": "Ferocious Pugil",
+      "level_min": 22,
+      "level_max": 24
+    },
+    {
+      "zone": "Valkurm Dunes",
+      "monster": "Beach Pugil",
+      "level_min": 23,
+      "level_max": 26
+    },
+    {
+      "zone": "Buburimu Peninsula",
+      "monster": "Shoal Pugil",
+      "level_min": 24,
+      "level_max": 26
+    },
+    {
+      "zone": "Jugner Forest",
+      "monster": "Ferocious Pugil",
+      "level_min": 24,
+      "level_max": 25
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Greater Pugil",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Spinous Pugil",
+      "level_min": 29,
+      "level_max": 31
+    },
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Greater Pugil",
+      "level_min": 29,
+      "level_max": 31
+    },
+    {
+      "zone": "Korroloka Tunnel",
+      "monster": "Greater Pugil",
+      "level_min": 30,
+      "level_max": 33
+    },
+    {
+      "zone": "Beaucedine Glacier",
+      "monster": "Vepar",
+      "level_min": 32,
+      "level_max": 36
+    }
+  ],
+  "521": [
+    { "zone": "Ordelle's Caves", "monster": "Thread Leech", "level_min": 18, "level_max": 21 },
+    { "zone": "Pashhow Marshlands", "monster": "Thread Leech", "level_min": 19, "level_max": 22 },
+    { "zone": "Valkurm Dunes", "monster": "Thread Leech", "level_min": 21, "level_max": 25 },
+    { "zone": "Korroloka Tunnel", "monster": "Thread Leech", "level_min": 28, "level_max": 31 },
+    { "zone": "Jugner Forest", "monster": "Forest Leech", "level_min": 19, "level_max": 22 },
+    { "zone": "Buburimu Peninsula", "monster": "Poison Leech", "level_min": 21, "level_max": 25 },
+    { "zone": "Rolanberry Fields", "monster": "Poison Leech", "level_min": 24, "level_max": 26 },
+    { "zone": "Maze of Shakhrami", "monster": "Poison Leech", "level_min": 24, "level_max": 28 },
+    { "zone": "Ordelle's Caves", "monster": "Poison Leech", "level_min": 24, "level_max": 28 },
+    { "zone": "Qufim Island", "monster": "Acrophies", "level_min": 32, "level_max": 34 },
+    { "zone": "Lufaise Meadows", "monster": "Acrophies", "level_min": 33, "level_max": 36 },
+    { "zone": "Rolanberry Fields", "monster": "Big Leech", "level_min": 34, "level_max": 36, "note": "Fishing" },
+    { "zone": "Sea Serpent Grotto", "monster": "Royal Leech", "level_min": 35, "level_max": 38 },
+    { "zone": "The Sanctuary of Zi'Tah", "monster": "Goblin's Leech", "level_min": 35, "level_max": 40 },
+    { "zone": "The Sanctuary of Zi'Tah", "monster": "Goobbue Parasite", "level_min": 42, "level_max": 45 },
+    { "zone": "Toraimarai Canal", "monster": "Canal Leech", "level_min": 45, "level_max": 47, "note": "Fishing" },
+    { "zone": "Labyrinth of Onzozo", "monster": "Labyrinth Leech", "level_min": 45, "level_max": 48 },
+    { "zone": "Gustav Tunnel", "monster": "Labyrinth Leech", "level_min": 45, "level_max": 48 },
+    { "zone": "Castle Oztroja", "monster": "Yagudo Parasite", "level_min": 45, "level_max": 48 },
+    { "zone": "Maze of Shakhrami", "monster": "Leech King", "level_min": 35, "level_max": 36 },
+    { "zone": "Ordelle's Caves", "monster": "Aroma Leech", "level_min": 38, "level_max": 38 },
+    { "zone": "Sea Serpent Grotto", "monster": "Masan", "level_min": 39, "level_max": 39 }
+  ],
+  "522": [
+    {
+      "zone": "Ranguemont Pass",
+      "monster": "Hecteyes",
+      "level_min": 31,
+      "level_max": 34
+    },
+    {
+      "zone": "Attohwa Chasm",
+      "monster": "Hecteyes",
+      "level_min": 35,
+      "level_max": 38
+    },
+    {
+      "zone": "Ranguemont Pass",
+      "monster": "Taisai",
+      "level_min": 35,
+      "level_max": 38
+    },
+    {
+      "zone": "Maze of Shakhrami",
+      "monster": "Argus",
+      "level_min": 36,
+      "level_max": 37
+    },
+    {
+      "zone": "Horlais Peak",
+      "monster": "Compound Eyes",
+      "level_min": 40,
+      "level_max": 40
+    },
+    {
+      "zone": "Horlais Peak",
+      "monster": "Sobbing Eyes",
+      "level_min": 40,
+      "level_max": 40
+    },
+    {
+      "zone": "The Eldieme Necropolis",
+      "monster": "Gazer",
+      "level_min": 41,
+      "level_max": 43
+    },
+    {
+      "zone": "Pso'Xja",
+      "monster": "Gazer",
+      "level_min": 43,
+      "level_max": 46
+    }
+  ],
+  "524": [
+    {
+      "zone": "East Ronfaure",
+      "monster": "Carrion Worm",
+      "level_min": 1,
+      "level_max": 5
+    },
+    {
+      "zone": "North Gustaberg",
+      "monster": "Tunnel Worm",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "South Gustaberg",
+      "monster": "Tunnel Worm",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "Carrion Worm",
+      "level_min": 1,
+      "level_max": 5
+    },
+    {
+      "zone": "Zeruhn Mines",
+      "monster": "Tunnel Worm",
+      "level_min": 1,
+      "level_max": 3
+    },
+    {
+      "zone": "King Ranperre's Tomb",
+      "monster": "Carrion Worm",
+      "level_min": 2,
+      "level_max": 5
+    },
+    {
+      "zone": "North Gustaberg",
+      "monster": "Stone Eater",
+      "level_min": 2,
+      "level_max": 5
+    },
+    {
+      "zone": "South Gustaberg",
+      "monster": "Stone Eater",
+      "level_min": 2,
+      "level_max": 5
+    },
+    {
+      "zone": "Dangruf Wadi",
+      "monster": "Stone Eater",
+      "level_min": 3,
+      "level_max": 5
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Dirt Eater",
+      "level_min": 3,
+      "level_max": 5
+    },
+    {
+      "zone": "King Ranperre's Tomb",
+      "monster": "Stone Eater",
+      "level_min": 5,
+      "level_max": 7
+    },
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Rock Eater",
+      "level_min": 7,
+      "level_max": 11
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Rock Eater",
+      "level_min": 7,
+      "level_max": 11
+    },
+    {
+      "zone": "Dangruf Wadi",
+      "monster": "Giant Grub",
+      "level_min": 9,
+      "level_max": 12
+    },
+    {
+      "zone": "East Ronfaure",
+      "monster": "Bigmouth Billy",
+      "level_min": 9,
+      "level_max": 10
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Earth Eater",
+      "level_min": 10,
+      "level_max": 12
+    }
+  ],
+  "527": [
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Dancing Weapon",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Dancing Weapon",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Sauromugue Champaign",
+      "monster": "Evil Weapon",
+      "level_min": 34,
+      "level_max": 38
+    },
+    {
+      "zone": "Ranguemont Pass",
+      "monster": "Evil Weapon",
+      "level_min": 35,
+      "level_max": 37
+    },
+    {
+      "zone": "Batallia Downs",
+      "monster": "Evil Weapon",
+      "level_min": 36,
+      "level_max": 38
+    },
+    {
+      "zone": "Rolanberry Fields",
+      "monster": "Evil Weapon",
+      "level_min": 36,
+      "level_max": 38
+    }
+  ],
+  "529": [
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Four of Batons",
+      "level_min": 10,
+      "level_max": 14
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Four of Coins",
+      "level_min": 10,
+      "level_max": 14
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Four of Cups",
+      "level_min": 10,
+      "level_max": 14
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Four of Swords",
+      "level_min": 10,
+      "level_max": 14
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Five of Batons",
+      "level_min": 15,
+      "level_max": 19
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Five of Coins",
+      "level_min": 15,
+      "level_max": 19
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Five of Cups",
+      "level_min": 15,
+      "level_max": 19
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Five of Swords",
+      "level_min": 15,
+      "level_max": 19
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Six of Batons",
+      "level_min": 20,
+      "level_max": 24
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Six of Coins",
+      "level_min": 20,
+      "level_max": 24
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Six of Cups",
+      "level_min": 20,
+      "level_max": 24
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Six of Swords",
+      "level_min": 20,
+      "level_max": 24
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Seven of Batons",
+      "level_min": 25,
+      "level_max": 29
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Seven of Coins",
+      "level_min": 25,
+      "level_max": 29
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Seven of Cups",
+      "level_min": 25,
+      "level_max": 29
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Seven of Swords",
+      "level_min": 25,
+      "level_max": 29
+    }
+  ],
+  "530": [
+    {
+      "zone": "Lufaise Meadows",
+      "monster": "Atomic Cluster",
+      "level_min": 38,
+      "level_max": 40,
+      "note": "H-8/9 or J-8/9; 2:00-8:00 during foggy weather only"
+    },
+    {
+      "zone": "Lufaise Meadows",
+      "monster": "Atomic Cluster",
+      "level_min": 44,
+      "level_max": 46,
+      "note": "H-8/9 or J-8/9; 2:00-8:00 during foggy weather only"
+    },
+    {
+      "zone": "Misareaux Coast",
+      "monster": "Atomic Cluster",
+      "level_min": 44,
+      "level_max": 46,
+      "note": "I-6, J-7, or G-8; 2:00-8:00 during foggy weather only"
+    },
+    {
+      "zone": "Riverne - Site A01",
+      "monster": "Atomic Cluster",
+      "level_min": 46,
+      "level_max": 48,
+      "note": "E/F-10"
+    },
+    {
+      "zone": "Riverne - Site B01",
+      "monster": "Nitro Cluster",
+      "level_min": 56,
+      "level_max": 58,
+      "note": "I-9"
+    },
+    {
+      "zone": "Mount Zhayolm",
+      "monster": "Sweeping Cluster",
+      "level_min": 73,
+      "level_max": 75
+    }
+  ],
+  "531": [
+    {
+      "zone": "Beaucedine Glacier",
+      "monster": "Stone Golem",
+      "level_min": 40,
+      "level_max": 42
+    },
+    {
+      "zone": "Fei'Yin",
+      "monster": "Ore Golem",
+      "level_min": 43,
+      "level_max": 45
+    },
+    {
+      "zone": "Fei'Yin",
+      "monster": "Colossus",
+      "level_min": 56,
+      "level_max": 58
+    }
+  ],
+  "532": [
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Chaos Idol",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Panzer Doll",
+      "level_min": 31,
+      "level_max": 32
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Jagd Doll",
+      "level_min": 33,
+      "level_max": 34
+    },
+    {
+      "zone": "Beaucedine Glacier",
+      "monster": "Living Statue",
+      "level_min": 37,
+      "level_max": 39
+    },
+    {
+      "zone": "Fei'Yin",
+      "monster": "Drone",
+      "level_min": 41,
+      "level_max": 43
+    },
+    {
+      "zone": "Fei'Yin",
+      "monster": "Talos",
+      "level_min": 53,
+      "level_max": 55
+    }
+  ],
+  "533": [
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Spunkie",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Feu Follet",
+      "level_min": 35,
+      "level_max": 38,
+      "note": "Take the left lever, then hug the left wall"
+    },
+    {
+      "zone": "Crawlers' Nest",
+      "monster": "Puroboros",
+      "level_min": 45,
+      "level_max": 45,
+      "note": "I-10"
+    },
+    {
+      "zone": "Garlaige Citadel",
+      "monster": "Explosure",
+      "level_min": 52,
+      "level_max": 53,
+      "note": "Around I-8"
+    },
+    {
+      "zone": "Ifrit's Cauldron",
+      "monster": "Volcanic Gas",
+      "level_min": 62,
+      "level_max": 68,
+      "note": "G-6 near the Yhoator Jungle entrance; Survival Guide warp"
+    }
+  ],
+  "534": [
+    { "zone": "Lower Delkfutt's Tower", "monster": "Magic Pot", "level_min": 28, "level_max": 29 },
+    { "zone": "Middle Delkfutt's Tower", "monster": "Magic Pot", "level_min": 28, "level_max": 29 },
+    { "zone": "Middle Delkfutt's Tower", "monster": "Magic Jar", "level_min": 31, "level_max": 32 },
+    { "zone": "Lower Delkfutt's Tower", "monster": "Magic Urn", "level_min": 34, "level_max": 35 },
+    { "zone": "Upper Delkfutt's Tower", "monster": "Magic Urn", "level_min": 34, "level_max": 35 },
+    { "zone": "Fei'Yin", "monster": "Clockwork Pod", "level_min": 41, "level_max": 43 },
+    { "zone": "Garlaige Citadel", "monster": "Droma", "level_min": 52, "level_max": 54 },
+    { "zone": "Pso'Xja", "monster": "Maledict Millstone", "level_min": 65, "level_max": 68 },
+    { "zone": "Ru'Aun Gardens", "monster": "Sprinkler", "level_min": 73, "level_max": 76 }
+  ],
+  "535": [
+    {
+      "zone": "Pso'Xja",
+      "monster": "Snowball",
+      "level_min": 43,
+      "level_max": 46,
+      "note": "F-7 entrance"
+    },
+    {
+      "zone": "Uleguerand Range",
+      "monster": "Snoll",
+      "level_min": 60,
+      "level_max": 63
+    },
+    {
+      "zone": "Uleguerand Range",
+      "monster": "Morozko",
+      "level_min": 67,
+      "level_max": 70
+    }
+  ],
+  "536": [
+    {
+      "zone": "Jugner Forest",
+      "monster": "Scavenging Hound",
+      "level_min": 18,
+      "level_max": 25
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Scavenging Hound",
+      "level_min": 18,
+      "level_max": 25
+    },
+    {
+      "zone": "Pashhow Marshlands",
+      "monster": "Bog Dog",
+      "level_min": 18,
+      "level_max": 25
+    },
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Bandersnatch",
+      "level_min": 21,
+      "level_max": 24
+    },
+    {
+      "zone": "Batallia Downs",
+      "monster": "Mauthe Doog",
+      "level_min": 28,
+      "level_max": 32
+    },
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Mauthe Doog",
+      "level_min": 28,
+      "level_max": 31
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Drooling Hound",
+      "level_min": 31,
+      "level_max": 35
+    }
+  ],
+  "538": [
+    {
+      "zone": "Sacrarium",
+      "monster": "Keremet",
+      "level_min": 56,
+      "level_max": 58
+    },
+    {
+      "zone": "Attohwa Chasm",
+      "monster": "Corse",
+      "level_min": 66,
+      "level_max": 67
+    },
+    {
+      "zone": "Attohwa Chasm",
+      "monster": "Arch Corse",
+      "level_min": 75,
+      "level_max": 75,
+      "note": "Level 75 variants only; full listed range is 75-81"
+    }
+  ],
+  "539": [
+    { "zone": "Konschtat Highlands", "monster": "Ghost", "level_min": 15, "level_max": 17 },
+    { "zone": "La Theine Plateau", "monster": "Ghost", "level_min": 15, "level_max": 17 },
+    { "zone": "Tahrongi Canyon", "monster": "Ghost", "level_min": 15, "level_max": 17 },
+    { "zone": "Buburimu Peninsula", "monster": "Bogy", "level_min": 23, "level_max": 25 },
+    { "zone": "Jugner Forest", "monster": "Bogy", "level_min": 25, "level_max": 29 },
+    { "zone": "Pashhow Marshlands", "monster": "Bogy", "level_min": 25, "level_max": 29 },
+    { "zone": "Meriphataud Mountains", "monster": "Bogy", "level_min": 25, "level_max": 29 },
+    { "zone": "Gusgen Mines", "monster": "Bogy", "level_min": 27, "level_max": 29 },
+    { "zone": "Valkurm Dunes", "monster": "Bogy", "level_min": 28, "level_max": 30 },
+    { "zone": "Pashhow Marshlands", "monster": "Bogy", "level_min": 30, "level_max": 33 },
+    { "zone": "Korroloka Tunnel", "monster": "Bogy", "level_min": 30, "level_max": 33 },
+    { "zone": "Lower Delkfutt's Tower", "monster": "Bogy", "level_min": 30, "level_max": 32 },
+    { "zone": "Gusgen Mines", "monster": "Banshee", "level_min": 31, "level_max": 34 },
+    { "zone": "Qufim Island", "monster": "Banshee", "level_min": 31, "level_max": 33 },
+    { "zone": "Middle Delkfutt's Tower", "monster": "Banshee", "level_min": 32, "level_max": 33 },
+    { "zone": "Middle Delkfutt's Tower", "monster": "Evil Spirit", "level_min": 34, "level_max": 35 },
+    { "zone": "Batallia Downs", "monster": "Evil Spirit", "level_min": 35, "level_max": 38 },
+    { "zone": "Rolanberry Fields", "monster": "Evil Spirit", "level_min": 35, "level_max": 38 },
+    { "zone": "Sauromugue Champaign", "monster": "Evil Spirit", "level_min": 35, "level_max": 38 },
+    { "zone": "Gusgen Mines", "monster": "Burned Bergmann", "level_min": 36, "level_max": 41 },
+    { "zone": "Gusgen Mines", "monster": "Asphyxiated Amsel", "level_min": 36, "level_max": 43 },
+    { "zone": "Gusgen Mines", "monster": "Crushed Krause", "level_min": 36, "level_max": 38 },
+    { "zone": "Gusgen Mines", "monster": "Pulverized Pfeffer", "level_min": 36, "level_max": 40 },
+    { "zone": "Gusgen Mines", "monster": "Smothered Schmidt", "level_min": 36, "level_max": 38 },
+    { "zone": "Gusgen Mines", "monster": "Wounded Wurfel", "level_min": 36, "level_max": 42 },
+    { "zone": "Open sea route to Al Zahbi", "monster": "Revenant", "level_min": 37, "level_max": 37 },
+    { "zone": "Open sea route to Mhaura", "monster": "Revenant", "level_min": 37, "level_max": 37 },
+    { "zone": "Fei'Yin", "monster": "Revenant", "level_min": 40, "level_max": 42 },
+    { "zone": "The Eldieme Necropolis", "monster": "Revenant", "level_min": 44, "level_max": 47 },
+    { "zone": "Garlaige Citadel", "monster": "Revenant", "level_min": 44, "level_max": 46 },
+    { "zone": "The Sanctuary of Zi'Tah", "monster": "Revenant", "level_min": 45, "level_max": 47 },
+    { "zone": "Beaucedine Glacier", "monster": "Lugat", "level_min": 39, "level_max": 42 },
+    { "zone": "Xarcabard", "monster": "Etemmu", "level_min": 43, "level_max": 46 },
+    { "zone": "The Eldieme Necropolis", "monster": "Blood Soul", "level_min": 50, "level_max": 52 }
+  ],
+  "540": [
+    {
+      "zone": "Arrapago Reef",
+      "monster": "Qutrub",
+      "level_min": 73,
+      "level_max": 74,
+      "note": "Found at (E-10) on the second map"
+    }
+  ],
+  "541": [
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Skeleton Warrior",
+      "level_min": 15,
+      "level_max": 17
+    },
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Ghoul",
+      "level_min": 20,
+      "level_max": 27
+    },
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Wendigo",
+      "level_min": 26,
+      "level_max": 30
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Wight",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Wight",
+      "level_min": 29,
+      "level_max": 34
+    },
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Ghast",
+      "level_min": 33,
+      "level_max": 36
+    },
+    {
+      "zone": "Sea Serpent Grotto",
+      "monster": "Ghast",
+      "level_min": 38,
+      "level_max": 41
+    },
+    {
+      "zone": "Garlaige Citadel",
+      "monster": "Fallen Evacuee",
+      "level_min": 42,
+      "level_max": 43
+    },
+    {
+      "zone": "Xarcabard",
+      "monster": "Lost Soul",
+      "level_min": 42,
+      "level_max": 45
+    },
+    {
+      "zone": "Eldieme Necropolis",
+      "monster": "Lost Soul",
+      "level_min": 42,
+      "level_max": 46
+    },
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Lost Soul",
+      "level_min": 44,
+      "level_max": 48
+    },
+    {
+      "zone": "Behemoth's Dominion",
+      "monster": "Lost Soul",
+      "level_min": 45,
+      "level_max": 47
+    },
+    {
+      "zone": "Garlaige Citadel",
+      "monster": "Fallen Soldier",
+      "level_min": 47,
+      "level_max": 49
+    },
+    {
+      "zone": "Sacrarium",
+      "monster": "Mummy",
+      "level_min": 54,
+      "level_max": 56
+    }
+  ],
+  "542": [
+    { "zone": "Ranguemont Pass", "monster": "Oil Slick", "level_min": 7, "level_max": 9 },
+    { "zone": "Outer Horutoto Ruins", "monster": "Rotten Jam", "level_min": 12, "level_max": 15 },
+    { "zone": "Inner Horutoto Ruins", "monster": "Blob", "level_min": 15, "level_max": 18 },
+    { "zone": "Inner Horutoto Ruins", "monster": "Maltha", "level_min": 22, "level_max": 23 },
+    { "zone": "Outer Horutoto Ruins", "monster": "Black Slime", "level_min": 23, "level_max": 25 },
+    { "zone": "Phanauet Channel", "monster": "Ooze", "level_min": 25, "level_max": 29 },
+    { "zone": "Beadeaux", "monster": "Ooze", "level_min": 28, "level_max": 30 },
+    { "zone": "Ranguemont Pass", "monster": "Ooze", "level_min": 28, "level_max": 30 },
+    { "zone": "Ordelle's Caves", "monster": "Jelly", "level_min": 26, "level_max": 28 },
+    { "zone": "Korroloka Tunnel", "monster": "Jelly", "level_min": 26, "level_max": 28 },
+    { "zone": "Maze of Shakhrami", "monster": "Jelly", "level_min": 26, "level_max": 28 },
+    { "zone": "Gusgen Mines", "monster": "Jelly", "level_min": 27, "level_max": 29 },
+    { "zone": "Maze of Shakhrami", "monster": "Protozoan", "level_min": 29, "level_max": 31 },
+    { "zone": "Gusgen Mines", "monster": "Rancid Ooze", "level_min": 31, "level_max": 34 },
+    { "zone": "Ordelle's Caves", "monster": "Stroper Chyme", "level_min": 33, "level_max": 35 },
+    { "zone": "Davoi", "monster": "Davoi Mush", "level_min": 33, "level_max": 36 },
+    { "zone": "Maze of Shakhrami", "monster": "Ichorous Ire", "level_min": 35, "level_max": 36 },
+    { "zone": "Phomiuna Aqueducts", "monster": "Gloop", "level_min": 36, "level_max": 40 },
+    { "zone": "Bibiki Bay - Purgonorgo Isle", "monster": "Viscous Clot", "level_min": 38, "level_max": 40 },
+    { "zone": "Mount Zhayolm", "monster": "Mountain Clot", "level_min": 72, "level_max": 75 }
+  ],
+  "543": [
+    {
+      "zone": "Attohwa Chasm",
+      "monster": "Tracer Antlion",
+      "level_min": 38,
+      "level_max": 40
+    },
+    {
+      "zone": "Attohwa Chasm",
+      "monster": "Burrow Antlion",
+      "level_min": 41,
+      "level_max": 44
+    },
+    {
+      "zone": "Attohwa Chasm",
+      "monster": "Hunter Antlion",
+      "level_min": 45,
+      "level_max": 46
+    },
+    {
+      "zone": "Attohwa Chasm",
+      "monster": "Tracker Antlion",
+      "level_min": 70,
+      "level_max": 72
+    }
+  ],
+  "544": [
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Crane Fly",
+      "level_min": 18,
+      "level_max": 21
+    },
+    {
+      "zone": "Pashhow Marshlands",
+      "monster": "Gadfly",
+      "level_min": 18,
+      "level_max": 21
+    },
+    {
+      "zone": "Valkurm Dunes",
+      "monster": "Damselfly",
+      "level_min": 20,
+      "level_max": 23
+    },
+    {
+      "zone": "Batallia Downs",
+      "monster": "May Fly",
+      "level_min": 22,
+      "level_max": 26
+    },
+    {
+      "zone": "Gusgen Mines",
+      "monster": "Sadfly",
+      "level_min": 27,
+      "level_max": 30
+    }
+  ],
+  "545": [
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Giant Spider",
+      "level_min": 30,
+      "level_max": 34
+    },
+    {
+      "zone": "Western Altepa Desert",
+      "monster": "Desert Spider",
+      "level_min": 40,
+      "level_max": 44
+    },
+    {
+      "zone": "Kuftal Tunnel",
+      "monster": "Recluse Spider",
+      "level_min": 63,
+      "level_max": 66
+    }
+  ],
+  "547": [
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Crawler",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "Crawler",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Spiny Spipi",
+      "level_min": 9,
+      "level_max": 10
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Canyon Crawler",
+      "level_min": 11,
+      "level_max": 13
+    }
+  ],
+  "548": [
+    {
+      "zone": "Pso'Xja",
+      "monster": "Diremite",
+      "level_min": 42,
+      "level_max": 45,
+      "note": "F-7 entrance"
+    },
+    {
+      "zone": "Pso'Xja",
+      "monster": "Diremite Assaulter",
+      "level_min": 63,
+      "level_max": 68,
+      "note": "G-9 entrance"
+    }
+  ],
+  "549": [
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Bumblebee",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "North Gustaberg",
+      "monster": "Huge Hornet",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "South Gustaberg",
+      "monster": "Huge Hornet",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "Bumblebee",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Giddeus Bee",
+      "level_min": 2,
+      "level_max": 5
+    },
+    {
+      "zone": "North Gustaberg",
+      "monster": "Maneating Hornet",
+      "level_min": 2,
+      "level_max": 6
+    },
+    {
+      "zone": "South Gustaberg",
+      "monster": "Maneating Hornet",
+      "level_min": 2,
+      "level_max": 5
+    },
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Giant Bee",
+      "level_min": 5,
+      "level_max": 8
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "Giant Bee",
+      "level_min": 5,
+      "level_max": 8
+    },
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Huge Wasp",
+      "level_min": 7,
+      "level_max": 10
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Huge Wasp",
+      "level_min": 8,
+      "level_max": 12
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Killer Bee",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Digger Wasp",
+      "level_min": 11,
+      "level_max": 13
+    }
+  ],
+  "551": [
+    {
+      "zone": "East Ronfaure",
+      "monster": "Scarab Beetle",
+      "level_min": 3,
+      "level_max": 6
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "Scarab Beetle",
+      "level_min": 3,
+      "level_max": 6
+    },
+    {
+      "zone": "Palborough Mines",
+      "monster": "Copper Beetle",
+      "level_min": 9,
+      "level_max": 12
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "Fungus Beetle",
+      "level_min": 10,
+      "level_max": 15
+    },
+    {
+      "zone": "Inner Horutoto Ruins",
+      "monster": "Beady Beetle",
+      "level_min": 11,
+      "level_max": 16
+    }
+  ],
+  "554": [
+    {
+      "zone": "Maze of Shakhrami",
+      "monster": "Maze Scorpion",
+      "level_min": 25,
+      "level_max": 28
+    },
+    {
+      "zone": "Maze of Shakhrami",
+      "monster": "Labyrinth Scorpion",
+      "level_min": 30,
+      "level_max": 33
+    },
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Doom Scorpion",
+      "level_min": 44,
+      "level_max": 47
+    },
+    {
+      "zone": "Western Altepa Desert",
+      "monster": "Tulwar Scorpion",
+      "level_min": 53,
+      "level_max": 56
+    }
+  ],
+  "555": [
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Antican Auxiliarius",
+      "level_min": 35,
+      "level_max": 39
+    },
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Antican Faber",
+      "level_min": 35,
+      "level_max": 39
+    },
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Antican Funditor",
+      "level_min": 35,
+      "level_max": 39
+    },
+    {
+      "zone": "Western Altepa Desert",
+      "monster": "Antican Essedarius",
+      "level_min": 41,
+      "level_max": 45
+    },
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Antican Decurio",
+      "level_min": 44,
+      "level_max": 49
+    },
+    {
+      "zone": "Quicksand Caves",
+      "monster": "Antican Signifer",
+      "level_min": 52,
+      "level_max": 59
+    },
+    {
+      "zone": "Western Altepa Desert",
+      "monster": "Antican Secutor",
+      "level_min": 54,
+      "level_max": 58
+    },
+    {
+      "zone": "Western Altepa Desert",
+      "monster": "Antican Lanista",
+      "level_min": 54,
+      "level_max": 59
+    },
+    {
+      "zone": "Quicksand Caves",
+      "monster": "Antican Princeps",
+      "level_min": 54,
+      "level_max": 59
+    },
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Centurio XII-I",
+      "level_min": 56,
+      "level_max": 56
+    },
+    {
+      "zone": "Western Altepa Desert",
+      "monster": "Antican Eques",
+      "level_min": 54,
+      "level_max": 58
+    }
+  ],
+  "557": [
+    {
+      "zone": "Beaucedine Glacier",
+      "monster": "Bat Eye",
+      "level_min": 40,
+      "level_max": 42
+    },
+    {
+      "zone": "Xarcabard",
+      "monster": "Evil Eye",
+      "level_min": 45,
+      "level_max": 48
+    },
+    {
+      "zone": "Castle Zvahl Baileys",
+      "monster": "Morbid Eye",
+      "level_min": 52,
+      "level_max": 55
+    },
+    {
+      "zone": "Castle Zvahl Keep",
+      "monster": "Deadly Iris",
+      "level_min": 55,
+      "level_max": 56
+    }
+  ],
+  "560": [
+    {
+      "zone": "Silver Sea route to Al Zahbi",
+      "monster": "Imp",
+      "level_min": 55,
+      "level_max": 57,
+      "note": "Nighttime only"
+    },
+    {
+      "zone": "Silver Sea route to Nashmau",
+      "monster": "Imp",
+      "level_min": 55,
+      "level_max": 57,
+      "note": "Nighttime only"
+    },
+    {
+      "zone": "Caedarva Mire",
+      "monster": "Orderly Imp",
+      "level_min": 63,
+      "level_max": 68
+    },
+    {
+      "zone": "Arrapago Reef",
+      "monster": "Bukki",
+      "level_min": 70,
+      "level_max": 70
+    },
+    {
+      "zone": "Arrapago Reef",
+      "monster": "Heraldic Imp",
+      "level_min": 72,
+      "level_max": 74
+    }
+  ],
+  "561": [
+    {
+      "zone": "Phomiuna Aqueducts",
+      "monster": "Taurus",
+      "level_min": 37,
+      "level_max": 38
+    },
+    {
+      "zone": "Phomiuna Aqueducts",
+      "monster": "Stegotaur",
+      "level_min": 44,
+      "level_max": 48
+    },
+    {
+      "zone": "Sacrarium",
+      "monster": "Stegotaur",
+      "level_min": 47,
+      "level_max": 49
+    },
+    {
+      "zone": "Sacrarium",
+      "monster": "Teratotaur",
+      "level_min": 57,
+      "level_max": 59
+    },
+    {
+      "zone": "Uleguerand Range",
+      "monster": "Brontotaur",
+      "level_min": 68,
+      "level_max": 71
+    },
+    {
+      "zone": "Uleguerand Range",
+      "monster": "Tyrannotaur",
+      "level_min": 72,
+      "level_max": 75
+    }
+  ],
+  "563": [
+    {
+      "zone": "Xarcabard",
+      "monster": "Demons",
+      "level_min": 48,
+      "level_max": 52
+    },
+    {
+      "zone": "Castle Zvahl Baileys",
+      "monster": "Demons",
+      "level_min": 50,
+      "level_max": 52
+    },
+    {
+      "zone": "Castle Zvahl Keep",
+      "monster": "Demons",
+      "level_min": 52,
+      "level_max": 56
+    }
+  ],
+  "564": [
+    {
+      "zone": "Xarcabard",
+      "monster": "Biast",
+      "level_min": 70,
+      "level_max": 70,
+      "note": "NM"
+    }
+  ],
+  "565": [
+    {
+      "zone": "Riverne - Site A01",
+      "monster": "Firedrake",
+      "level_min": 41,
+      "level_max": 43
+    },
+    {
+      "zone": "Riverne - Site B01",
+      "monster": "Pyrodrake",
+      "level_min": 50,
+      "level_max": 55
+    }
+  ],
+  "567": [
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Akbaba",
+      "level_min": 9,
+      "level_max": 13
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Akbaba",
+      "level_min": 9,
+      "level_max": 13
+    },
+    {
+      "zone": "Jugner Forest",
+      "monster": "Screamer",
+      "level_min": 15,
+      "level_max": 18
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Jubjub",
+      "level_min": 15,
+      "level_max": 18
+    },
+    {
+      "zone": "Buburimu Peninsula",
+      "monster": "Zu",
+      "level_min": 20,
+      "level_max": 23
+    },
+    {
+      "zone": "Batallia Downs",
+      "monster": "Ba",
+      "level_min": 25,
+      "level_max": 28
+    }
+  ],
+  "569": [
+    { "zone": "La Theine Plateau", "monster": "Gale Bats", "level_min": 6, "level_max": 8 },
+    { "zone": "Yughott Grotto", "monster": "Grotto Bats", "level_min": 8, "level_max": 11 },
+    { "zone": "Valkurm Dunes", "monster": "Sand Bats", "level_min": 12, "level_max": 15 },
+    { "zone": "Inner Horutoto Ruins", "monster": "Bat Battalion", "level_min": 12, "level_max": 15 },
+    { "zone": "Valkurm Dunes", "monster": "Night Bats", "level_min": 12, "level_max": 16 },
+    { "zone": "Maze of Shakhrami", "monster": "Stink Bats", "level_min": 15, "level_max": 18 },
+    { "zone": "Ordelle's Caves", "monster": "Stink Bats", "level_min": 15, "level_max": 18 },
+    { "zone": "Outer Horutoto Ruins", "monster": "Stink Bats", "level_min": 15, "level_max": 18 },
+    { "zone": "Rolanberry Fields", "monster": "Midnight Wings", "level_min": 20, "level_max": 23 },
+    { "zone": "Qufim Island", "monster": "Dark Bats", "level_min": 25, "level_max": 27 },
+    { "zone": "Korroloka Tunnel", "monster": "Seeker Bats", "level_min": 22, "level_max": 26 },
+    { "zone": "Lower Delkfutt's Tower", "monster": "Seeker Bats", "level_min": 25, "level_max": 27 },
+    { "zone": "Qufim Island", "monster": "Seeker Bats", "level_min": 25, "level_max": 27 },
+    { "zone": "Ranguemont Pass", "monster": "Seeker Bats", "level_min": 25, "level_max": 28 },
+    { "zone": "The Sanctuary of Zi'Tah", "monster": "Lesser Gaylas", "level_min": 39, "level_max": 42 }
+  ],
+  "570": [
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Specter Bat",
+      "level_min": 15,
+      "level_max": 20
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Black Bat",
+      "level_min": 15,
+      "level_max": 18
+    },
+    {
+      "zone": "Pashhow Marshlands",
+      "monster": "Black Bat",
+      "level_min": 15,
+      "level_max": 18
+    },
+    {
+      "zone": "Yughott Grotto",
+      "monster": "Stealth Bat",
+      "level_min": 15,
+      "level_max": 17
+    },
+    {
+      "zone": "Inner Horutoto Ruins",
+      "monster": "Battle Bat",
+      "level_min": 17,
+      "level_max": 20
+    },
+    {
+      "zone": "King Ranperre's Tomb",
+      "monster": "Tomb Bat",
+      "level_min": 17,
+      "level_max": 19
+    },
+    {
+      "zone": "Ordelle's Caves",
+      "monster": "Hognosed Bat",
+      "level_min": 17,
+      "level_max": 20
+    },
+    {
+      "zone": "Valkurm Dunes",
+      "monster": "Star Bat",
+      "level_min": 17,
+      "level_max": 20
+    },
+    {
+      "zone": "Maze of Shakhrami",
+      "monster": "Combat",
+      "level_min": 20,
+      "level_max": 23
+    },
+    {
+      "zone": "Outer Horutoto Ruins",
+      "monster": "Combat",
+      "level_min": 20,
+      "level_max": 23
+    },
+    {
+      "zone": "Valkurm Dunes",
+      "monster": "Giant Bat",
+      "level_min": 20,
+      "level_max": 22
+    },
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Gigas's Bat",
+      "level_min": 21,
+      "level_max": 23
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Gigas's Bat",
+      "level_min": 23,
+      "level_max": 25
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Goblin's Bat",
+      "level_min": 23,
+      "level_max": 25
+    },
+    {
+      "zone": "Rolanberry Fields",
+      "monster": "Moon Bat",
+      "level_min": 23,
+      "level_max": 26
+    },
+    {
+      "zone": "Sauromugue Champaign",
+      "monster": "Moon Bat",
+      "level_min": 23,
+      "level_max": 26
+    },
+    {
+      "zone": "Maze of Shakhrami",
+      "monster": "Goblin's Bat",
+      "level_min": 24,
+      "level_max": 26
+    },
+    {
+      "zone": "Davoi",
+      "monster": "Wolf Bat",
+      "level_min": 25,
+      "level_max": 28
+    },
+    {
+      "zone": "Maze of Shakhrami",
+      "monster": "Ancient Bat",
+      "level_min": 26,
+      "level_max": 29
+    },
+    {
+      "zone": "Ordelle's Caves",
+      "monster": "Ancient Bat",
+      "level_min": 26,
+      "level_max": 28
+    },
+    {
+      "zone": "The Sanctuary of Zi'Tah",
+      "monster": "Ancient Bat",
+      "level_min": 26,
+      "level_max": 28
+    },
+    {
+      "zone": "Korroloka Tunnel",
+      "monster": "Combat",
+      "level_min": 27,
+      "level_max": 30
+    },
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Ancient Bat",
+      "level_min": 27,
+      "level_max": 29
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Stirge",
+      "level_min": 27,
+      "level_max": 29
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Ancient Bat",
+      "level_min": 27,
+      "level_max": 29
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Glow Bat",
+      "level_min": 27,
+      "level_max": 29
+    },
+    {
+      "zone": "Oldton Movalpolos",
+      "monster": "Goblin's Bat",
+      "level_min": 28,
+      "level_max": 31
+    },
+    {
+      "zone": "Castle Oztroja",
+      "monster": "Bulwark Bat",
+      "level_min": 29,
+      "level_max": 31
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Big Bat",
+      "level_min": 29,
+      "level_max": 31
+    },
+    {
+      "zone": "Ranguemont Pass",
+      "monster": "Stirge",
+      "level_min": 30,
+      "level_max": 33
+    }
+  ],
+  "572": [
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Axe Beak",
+      "level_min": 25,
+      "level_max": 28
+    },
+    {
+      "zone": "Sauromugue Champaign",
+      "monster": "Tabar Beak",
+      "level_min": 34,
+      "level_max": 37
+    },
+    {
+      "zone": "Sauromugue Champaign",
+      "monster": "Deadly Dodo",
+      "level_min": 39,
+      "level_max": 40
+    }
+  ],
+  "573": [
+    {
+      "zone": "Wajaom Woodlands",
+      "monster": "Lesser Colibri",
+      "level_min": 63,
+      "level_max": 65
+    },
+    {
+      "zone": "Bhaflau Thickets",
+      "monster": "Lesser Colibri",
+      "level_min": 63,
+      "level_max": 65
+    },
+    {
+      "zone": "Mamook",
+      "monster": "Colibri",
+      "level_min": 70,
+      "level_max": 71
+    },
+    {
+      "zone": "Bhaflau Thickets",
+      "monster": "Colibri",
+      "level_min": 71,
+      "level_max": 73
+    }
+  ],
+  "574": [
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Diatryma",
+      "level_min": 47,
+      "level_max": 50
+    },
+    {
+      "zone": "Misareaux Coast",
+      "monster": "Diatryma",
+      "level_min": 47,
+      "level_max": 51
+    },
+    {
+      "zone": "Valley of Sorrows",
+      "monster": "Peryton",
+      "level_min": 69,
+      "level_max": 72
+    }
+  ],
+  "575": [
+    {
+      "zone": "Riverne - Site A01",
+      "monster": "Hippogryph",
+      "level_min": 40,
+      "level_max": 42
+    },
+    {
+      "zone": "Riverne - Site A01",
+      "monster": "Cloud Hippogryph",
+      "level_min": 45,
+      "level_max": 47
+    },
+    {
+      "zone": "Riverne - Site B01",
+      "monster": "Nimbus Hippogryph",
+      "level_min": 49,
+      "level_max": 52
+    },
+    {
+      "zone": "Riverne - Site B01",
+      "monster": "Strato Hippogryph",
+      "level_min": 55,
+      "level_max": 57
+    }
+  ],
+  "576": [
+    {
+      "zone": "Silver Sea route to Al Zahbi",
+      "monster": "Apkallu",
+      "level_min": 54,
+      "level_max": 55
+    },
+    {
+      "zone": "Silver Sea route to Nashmau",
+      "monster": "Apkallu",
+      "level_min": 54,
+      "level_max": 55
+    },
+    {
+      "zone": "Mount Zhayolm",
+      "monster": "Zhayolm Apkallu",
+      "level_min": 70,
+      "level_max": 72
+    },
+    {
+      "zone": "Mount Zhayolm",
+      "monster": "King Apkallu",
+      "level_min": 78,
+      "level_max": 80
+    },
+    {
+      "zone": "Arrapago Reef",
+      "monster": "Arrapago Apkallu",
+      "level_min": 70,
+      "level_max": 72
+    }
+  ],
+  "577": [
+    {
+      "zone": "East Ronfaure",
+      "monster": "Forest Hare",
+      "level_min": 1,
+      "level_max": 5
+    },
+    {
+      "zone": "East Ronfaure",
+      "monster": "Wild Rabbit",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Savanna Rarab",
+      "level_min": 1,
+      "level_max": 6
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "Forest Hare",
+      "level_min": 1,
+      "level_max": 5
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "Wild Rabbit",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "Savanna Rarab",
+      "level_min": 1,
+      "level_max": 5
+    },
+    {
+      "zone": "Palborough Mines",
+      "monster": "Pit Hare",
+      "level_min": 2,
+      "level_max": 6
+    },
+    {
+      "zone": "Dangruf Wadi",
+      "monster": "Hoarder Hare",
+      "level_min": 6,
+      "level_max": 8
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Steppe Hare",
+      "level_min": 7,
+      "level_max": 10
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Canyon Rarab",
+      "level_min": 7,
+      "level_max": 10
+    }
+  ],
+  "578": [
+    {
+      "zone": "Bibiki Bay",
+      "monster": "Goblin's Rarab",
+      "level_min": 29,
+      "level_max": 31
+    },
+    {
+      "zone": "Bibiki Bay",
+      "monster": "Island Rarab",
+      "level_min": 34,
+      "level_max": 38
+    }
+  ],
+  "579": [
+    {
+      "zone": "Wajaom Woodlands",
+      "monster": "Marid",
+      "level_min": 78,
+      "level_max": 79,
+      "note": "Located around (J-8)"
+    },
+    {
+      "zone": "Bhaflau Thickets",
+      "monster": "Marid",
+      "level_min": 78,
+      "level_max": 79
+    },
+    {
+      "zone": "Wajaom Woodlands",
+      "monster": "Grand Marid",
+      "level_min": 78,
+      "level_max": 79
+    },
+    {
+      "zone": "Bhaflau Thickets",
+      "monster": "Grand Marid",
+      "level_min": 80,
+      "level_max": 80
+    }
+  ],
+  "581": [
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Wild Dhalmel",
+      "level_min": 14,
+      "level_max": 16
+    },
+    {
+      "zone": "Buburimu Peninsula",
+      "monster": "Bull Dhalmel",
+      "level_min": 20,
+      "level_max": 23
+    },
+    {
+      "zone": "Buburimu Peninsula",
+      "monster": "Cape Dhalmel",
+      "level_min": 24,
+      "level_max": 26
+    }
+  ],
+  "582": [
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Puma",
+      "level_min": 29,
+      "level_max": 33
+    },
+    {
+      "zone": "Sauromugue Champaign",
+      "monster": "Champaign Coeurl",
+      "level_min": 30,
+      "level_max": 34
+    },
+    {
+      "zone": "Yuhtunga Jungle",
+      "monster": "Jungle Coeurl",
+      "level_min": 35,
+      "level_max": 38
+    },
+    {
+      "zone": "Attohwa Chasm",
+      "monster": "Attohwa Coeurl",
+      "level_min": 37,
+      "level_max": 39
+    }
+  ],
+  "584": [
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Mad Sheep",
+      "level_min": 11,
+      "level_max": 13
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Mad Sheep",
+      "level_min": 11,
+      "level_max": 13
+    },
+    {
+      "zone": "Jugner Forest",
+      "monster": "Brutal Sheep",
+      "level_min": 18,
+      "level_max": 23
+    },
+    {
+      "zone": "Valkurm Dunes",
+      "monster": "Brutal Sheep",
+      "level_min": 20,
+      "level_max": 23
+    }
+  ],
+  "585": [
+    {
+      "zone": "Caedarva Mire",
+      "monster": "Mosshorn",
+      "level_min": 80,
+      "level_max": 81
+    },
+    {
+      "zone": "Lufaise Meadows",
+      "monster": "Tavnazian Ram",
+      "level_min": 81,
+      "level_max": 83
+    }
+  ],
+  "587": [
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Forest Tiger",
+      "level_min": 22,
+      "level_max": 25
+    },
+    {
+      "zone": "Jugner Forest",
+      "monster": "Forest Tiger",
+      "level_min": 22,
+      "level_max": 25
+    },
+    {
+      "zone": "Batallia Downs",
+      "monster": "Sabertooth Tiger",
+      "level_min": 28,
+      "level_max": 32
+    },
+    {
+      "zone": "Sauromugue Champaign",
+      "monster": "Sabertooth Tiger",
+      "level_min": 28,
+      "level_max": 32
+    },
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Sabertooth Tiger",
+      "level_min": 29,
+      "level_max": 32
+    }
+  ],
+  "588": [
+    {
+      "zone": "Uleguerand Range",
+      "monster": "Buffalo",
+      "level_min": 62,
+      "level_max": 65,
+      "note": "Found around (D-8)"
+    },
+    {
+      "zone": "Uleguerand Range",
+      "monster": "Giant Buffalo",
+      "level_min": 68,
+      "level_max": 71
+    },
+    {
+      "zone": "Uleguerand Range",
+      "monster": "King Buffalo",
+      "level_min": 79,
+      "level_max": 82
+    }
+  ],
+  "589": [
+    {
+      "zone": "Fei'Yin",
+      "monster": "Shadow",
+      "level_min": 44,
+      "level_max": 46
+    },
+    {
+      "zone": "Eldieme Necropolis",
+      "monster": "Shade",
+      "level_min": 46,
+      "level_max": 48
+    },
+    {
+      "zone": "Eldieme Necropolis",
+      "monster": "Ka",
+      "level_min": 52,
+      "level_max": 54
+    },
+    {
+      "zone": "Fei'Yin",
+      "monster": "Specter",
+      "level_min": 55,
+      "level_max": 58
+    },
+    {
+      "zone": "Eldieme Necropolis",
+      "monster": "Dark Stalker",
+      "level_min": 57,
+      "level_max": 59
+    },
+    {
+      "zone": "Cape Teriggan",
+      "monster": "Axesarion the Wanderer",
+      "level_min": 69,
+      "level_max": 70
+    }
+  ],
+  "591": [
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Lesser Manticore",
+      "level_min": 47,
+      "level_max": 49
+    },
+    {
+      "zone": "Western Altepa Desert",
+      "monster": "Desert Manticore",
+      "level_min": 53,
+      "level_max": 57
+    },
+    {
+      "zone": "Labyrinth of Onzozo",
+      "monster": "Labyrinth Manticore",
+      "level_min": 71,
+      "level_max": 74
+    },
+    {
+      "zone": "Valley of Sorrows",
+      "monster": "Valley Manticore",
+      "level_min": 72,
+      "level_max": 74
+    },
+    {
+      "zone": "Cape Teriggan",
+      "monster": "Greater Manticore",
+      "level_min": 76,
+      "level_max": 79
+    }
+  ],
+  "592": [
+    {
+      "zone": "Yuhtunga Jungle",
+      "monster": "Young Opo-opo",
+      "level_min": 34,
+      "level_max": 36
+    },
+    {
+      "zone": "Bibiki Bay - Purgonorgo Isle",
+      "monster": "Coastal Opo-opo",
+      "level_min": 36,
+      "level_max": 39
+    },
+    {
+      "zone": "Yhoator Jungle",
+      "monster": "Young Opo-opo",
+      "level_min": 40,
+      "level_max": 44
+    },
+    {
+      "zone": "Ifrit's Cauldron",
+      "monster": "Old Opo-opo",
+      "level_min": 34,
+      "level_max": 36
+    }
+  ],
+  "593": [
+    {
+      "zone": "Yuhtunga Jungle",
+      "monster": "Young Opo-opo",
+      "level_min": 34,
+      "level_max": 36
+    },
+    {
+      "zone": "Bibiki Bay - Purgonorgo Isle",
+      "monster": "Coastal Opo-opo",
+      "level_min": 36,
+      "level_max": 39
+    },
+    {
+      "zone": "Yhoator Jungle",
+      "monster": "Young Opo-opo",
+      "level_min": 40,
+      "level_max": 44
+    },
+    {
+      "zone": "Temple of Uggalepih",
+      "monster": "Temple Opo-opo",
+      "level_min": 51,
+      "level_max": 54
+    },
+    {
+      "zone": "Ifrit's Cauldron",
+      "monster": "Old Opo-opo",
+      "level_min": 61,
+      "level_max": 65
+    }
+  ],
+  "594": [
+    {
+      "zone": "Pashhow Marshlands",
+      "monster": "Goobbue",
+      "level_min": 22,
+      "level_max": 25
+    },
+    {
+      "zone": "Pashhow Marshlands",
+      "monster": "Jolly Green",
+      "level_min": 27,
+      "level_max": 28
+    },
+    {
+      "zone": "Rolanberry Fields",
+      "monster": "Goobbue Farmer",
+      "level_min": 28,
+      "level_max": 32
+    },
+    {
+      "zone": "The Sanctuary of Zi'Tah",
+      "monster": "Goobbue Gardener",
+      "level_min": 40,
+      "level_max": 43
+    }
+  ],
+  "595": [
+    {
+      "zone": "Eastern Altepa Desert",
+      "monster": "Sabotender",
+      "level_min": 42,
+      "level_max": 46
+    },
+    {
+      "zone": "Western Altepa Desert",
+      "monster": "Cactuar",
+      "level_min": 48,
+      "level_max": 53
+    },
+    {
+      "zone": "Quicksand Caves",
+      "monster": "Sabotender Bailaor",
+      "level_min": 52,
+      "level_max": 59
+    },
+    {
+      "zone": "Quicksand Caves",
+      "monster": "Spelunking Sabotender",
+      "level_min": 62,
+      "level_max": 68
+    },
+    {
+      "zone": "Kuftal Tunnel",
+      "monster": "Sabotender Sediendo",
+      "level_min": 64,
+      "level_max": 67
+    }
+  ],
+  "596": [
+    {
+      "zone": "Jugner Forest",
+      "monster": "Walking Tree",
+      "level_min": 25,
+      "level_max": 28
+    },
+    {
+      "zone": "Jugner Forest",
+      "monster": "Fraelissa",
+      "level_min": 33,
+      "level_max": 35
+    },
+    {
+      "zone": "Batallia Downs",
+      "monster": "Treant",
+      "level_min": 35,
+      "level_max": 37
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Dosetsu Tree",
+      "level_min": 38,
+      "level_max": 40
+    },
+    {
+      "zone": "Batallia Downs",
+      "monster": "Weeping Willow",
+      "level_min": 45,
+      "level_max": 45
+    },
+    {
+      "zone": "Lufaise Meadows",
+      "monster": "Leshy",
+      "level_min": 52,
+      "level_max": 54,
+      "note": "G-6"
+    },
+    {
+      "zone": "Bhaflau Thickets",
+      "monster": "Olden Treant",
+      "level_min": 72,
+      "level_max": 74
+    }
+  ],
+  "597": [
+    {
+      "zone": "North Gustaberg",
+      "monster": "Walking Sapling",
+      "level_min": 2,
+      "level_max": 6
+    },
+    {
+      "zone": "South Gustaberg",
+      "monster": "Walking Sapling",
+      "level_min": 2,
+      "level_max": 6
+    },
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Strolling Sapling",
+      "level_min": 7,
+      "level_max": 10
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Strolling Sapling",
+      "level_min": 7,
+      "level_max": 10
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Strolling Sapling",
+      "level_min": 7,
+      "level_max": 10
+    },
+    {
+      "zone": "Jugner Forest",
+      "monster": "Wandering Sapling",
+      "level_min": 13,
+      "level_max": 16
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Wandering Sapling",
+      "level_min": 13,
+      "level_max": 16
+    }
+  ],
+  "598": [
+    {
+      "zone": "Phanauet Channel",
+      "monster": "Flytrap",
+      "level_min": 15,
+      "level_max": 25
+    },
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Flytrap",
+      "level_min": 18,
+      "level_max": 22
+    },
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Battrap",
+      "level_min": 23,
+      "level_max": 27
+    },
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Fishtrap",
+      "level_min": 25,
+      "level_max": 27
+    },
+    {
+      "zone": "Phanauet Channel",
+      "monster": "Fishtrap",
+      "level_min": 25,
+      "level_max": 27
+    },
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Birdtrap",
+      "level_min": 29,
+      "level_max": 33
+    }
+  ],
+  "599": [
+    {
+      "zone": "East Ronfaure",
+      "monster": "Forest Funguar",
+      "level_min": 3,
+      "level_max": 6
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "Forest Funguar",
+      "level_min": 3,
+      "level_max": 6
+    },
+    {
+      "zone": "Ghelsba Outpost",
+      "monster": "Toadstool",
+      "level_min": 4,
+      "level_max": 6
+    },
+    {
+      "zone": "Palborough Mines",
+      "monster": "Cave Funguar",
+      "level_min": 9,
+      "level_max": 11
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Grass Funguar",
+      "level_min": 11,
+      "level_max": 13
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Poison Funguar",
+      "level_min": 14,
+      "level_max": 16
+    },
+    {
+      "zone": "Carpenters' Landing",
+      "monster": "Poison Funguar",
+      "level_min": 16,
+      "level_max": 19
+    }
+  ],
+  "603": [
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Tiny Mandragora",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "Tiny Mandragora",
+      "level_min": 1,
+      "level_max": 1
+    },
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Mandragora",
+      "level_min": 3,
+      "level_max": 6
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "Mandragora",
+      "level_min": 3,
+      "level_max": 5
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Pygmaioi",
+      "level_min": 7,
+      "level_max": 11
+    }
+  ],
+  "604": [
+    {
+      "zone": "Pashhow Marshlands",
+      "monster": "Malboro",
+      "level_min": 25,
+      "level_max": 28
+    },
+    {
+      "zone": "Rolanberry Fields",
+      "monster": "Ochu",
+      "level_min": 34,
+      "level_max": 37
+    },
+    {
+      "zone": "Yhoator Jungle",
+      "monster": "Anemone",
+      "level_min": 51,
+      "level_max": 54
+    },
+    {
+      "zone": "Wajaom Woodlands",
+      "monster": "Ameretat",
+      "level_min": 65,
+      "level_max": 66
+    }
+  ],
+  "606": [
+    {
+      "zone": "Lufaise Meadows",
+      "monster": "Bugard",
+      "level_min": 34,
+      "level_max": 37
+    },
+    {
+      "zone": "Misareaux Coast",
+      "monster": "Bugard",
+      "level_min": 34,
+      "level_max": 37
+    },
+    {
+      "zone": "Lufaise Meadows",
+      "monster": "Gigantobugard",
+      "level_min": 40,
+      "level_max": 43
+    },
+    {
+      "zone": "Misareaux Coast",
+      "monster": "Gigantobugard",
+      "level_min": 40,
+      "level_max": 43
+    }
+  ],
+  "608": [
+    {
+      "zone": "Uleguerand Range",
+      "monster": "Nival Raptor",
+      "level_min": 68,
+      "level_max": 70,
+      "note": "Found around (I-10) and (J-10)"
+    }
+  ],
+  "610": [
+    { "zone": "Valkurm Dunes", "monster": "Hill Lizard", "level_min": 15, "level_max": 19 },
+    { "zone": "Yuhtunga Jungle", "monster": "Ivory Lizard", "level_min": 32, "level_max": 35 },
+    { "zone": "Yhoator Jungle", "monster": "White Lizard", "level_min": 36, "level_max": 39 },
+    { "zone": "Gustav Tunnel", "monster": "Labyrinth Lizard", "level_min": 46, "level_max": 49 },
+    { "zone": "Crawlers' Nest", "monster": "Labyrinth Lizard", "level_min": 49, "level_max": 51 },
+    { "zone": "Pso'Xja", "monster": "Labyrinth Lizard", "level_min": 52, "level_max": 58 },
+    { "zone": "Pso'Xja", "monster": "Maze Lizard", "level_min": 43, "level_max": 45 },
+    { "zone": "Attohwa Chasm", "monster": "Bane Lizard", "level_min": 47, "level_max": 49 },
+    { "zone": "Quicksand Caves", "monster": "Sand Lizard", "level_min": 56, "level_max": 59 },
+    { "zone": "Kuftal Tunnel", "monster": "Sand Lizard", "level_min": 61, "level_max": 64 },
+    { "zone": "Cape Teriggan", "monster": "Sand Lizard", "level_min": 62, "level_max": 66 }
+  ],
+  "611": [
+    {
+      "zone": "Al'Taieu",
+      "monster": "Ul'aern",
+      "level_min": 70,
+      "level_max": 73
+    },
+    {
+      "zone": "Al'Taieu",
+      "monster": "Om'aern",
+      "level_min": 75,
+      "level_max": 78
+    },
+    {
+      "zone": "Grand Palace of Hu'Xzoi",
+      "monster": "Eo'aern",
+      "level_min": 79,
+      "level_max": 82
+    },
+    {
+      "zone": "The Garden of Ru'Hmet",
+      "monster": "Aw'aern",
+      "level_min": 81,
+      "level_max": 84
+    }
+  ],
+  "612": [
+    {
+      "zone": "Grand Palace of Hu'Xzoi",
+      "monster": "Eo'ghrah",
+      "level_min": 75,
+      "level_max": 77
+    },
+    {
+      "zone": "The Garden of Ru'Hmet",
+      "monster": "Aw'ghrah",
+      "level_min": 79,
+      "level_max": 81
+    }
+  ],
+  "613": [
+    {
+      "zone": "The Garden of Ru'Hmet",
+      "monster": "Aw'zdei",
+      "level_min": 76,
+      "level_max": 80
+    },
+    {
+      "zone": "Grand Palace of Hu'Xzoi",
+      "monster": "Eo'zdei",
+      "level_min": 77,
+      "level_max": 78
+    }
+  ],
+  "614": [
+    {
+      "zone": "Al'Taieu",
+      "monster": "Ul'xzomit",
+      "level_min": 68,
+      "level_max": 71
+    },
+    {
+      "zone": "Al'Taieu",
+      "monster": "Aern's Xzomit",
+      "level_min": 70,
+      "level_max": 73
+    },
+    {
+      "zone": "Al'Taieu",
+      "monster": "Om'xzomit",
+      "level_min": 74,
+      "level_max": 76
+    }
+  ],
+  "615": [
+    {
+      "zone": "Al'Taieu",
+      "monster": "Ul'phuabo",
+      "level_min": 75,
+      "level_max": 76
+    },
+    {
+      "zone": "Al'Taieu",
+      "monster": "Om'phuabo",
+      "level_min": 79,
+      "level_max": 81
+    }
+  ],
+  "616": [
+    {
+      "zone": "Al'Taieu",
+      "monster": "Ul'hpemde",
+      "level_min": 68,
+      "level_max": 72
+    },
+    {
+      "zone": "Al'Taieu",
+      "monster": "Om'hpemde",
+      "level_min": 73,
+      "level_max": 77
+    }
+  ],
+  "617": [
+    {
+      "zone": "Grand Palace of Hu'Xzoi",
+      "monster": "Eo'euvhi",
+      "level_min": 74,
+      "level_max": 76
+    },
+    {
+      "zone": "The Garden of Ru'Hmet",
+      "monster": "Aw'euvhi",
+      "level_min": 78,
+      "level_max": 80
+    }
+  ],
+  "618": [
+    {
+      "zone": "Ghelsba Outpost",
+      "monster": "Orcish Wallbreacher",
+      "level_min": 15,
+      "level_max": 16
+    },
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Orcish Flamethrower",
+      "level_min": 16,
+      "level_max": 18
+    },
+    {
+      "zone": "Ghelsba Outpost",
+      "monster": "Orcish Barricader",
+      "level_min": 17,
+      "level_max": 18
+    },
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Orcish Panzer",
+      "level_min": 20,
+      "level_max": 21
+    },
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Kegpaunch Doshgnosh",
+      "level_min": 22,
+      "level_max": 23
+    }
+  ],
+  "618": [
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Orcish Stonelauncher",
+      "level_min": 18,
+      "level_max": 21
+    },
+    {
+      "zone": "Yughott Grotto",
+      "monster": "Orcish Stonelauncher",
+      "level_min": 18,
+      "level_max": 21
+    }
+  ],
+  "620": [
+    {
+      "zone": "East Ronfaure",
+      "monster": "Orcish Fodder",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "East Ronfaure",
+      "monster": "Orcish Grappler",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "East Ronfaure",
+      "monster": "Orcish Mesmerizer",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "Ghelsba Outpost",
+      "monster": "Orcish Fodder",
+      "level_min": 3,
+      "level_max": 9
+    },
+    {
+      "zone": "Ghelsba Outpost",
+      "monster": "Orcish Grappler",
+      "level_min": 3,
+      "level_max": 9
+    },
+    {
+      "zone": "Ghelsba Outpost",
+      "monster": "Orcish Mesmerizer",
+      "level_min": 3,
+      "level_max": 9
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "Orcish Fodder",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "Orcish Grappler",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "West Ronfaure",
+      "monster": "Orcish Mesmerizer",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Orcish Fodder",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Orcish Grappler",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Orcish Mesmerizer",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Orcish Fodder",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Orcish Grappler",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Orcish Mesmerizer",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Orcish Grunt",
+      "level_min": 11,
+      "level_max": 17
+    },
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Orcish Neckchopper",
+      "level_min": 11,
+      "level_max": 17
+    },
+    {
+      "zone": "Fort Ghelsba",
+      "monster": "Orcish Stonechucker",
+      "level_min": 11,
+      "level_max": 17
+    },
+    {
+      "zone": "Ghelsba Outpost",
+      "monster": "Orcish Grunt",
+      "level_min": 11,
+      "level_max": 15
+    },
+    {
+      "zone": "Ghelsba Outpost",
+      "monster": "Orcish Neckchopper",
+      "level_min": 11,
+      "level_max": 15
+    },
+    {
+      "zone": "Ghelsba Outpost",
+      "monster": "Orcish Stonechucker",
+      "level_min": 11,
+      "level_max": 15
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Orcish Grunt",
+      "level_min": 12,
+      "level_max": 16
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Orcish Neckchopper",
+      "level_min": 12,
+      "level_max": 16
+    },
+    {
+      "zone": "La Theine Plateau",
+      "monster": "Orcish Stonechucker",
+      "level_min": 12,
+      "level_max": 16
+    },
+    {
+      "zone": "Jugner Forest",
+      "monster": "Orcish Serjeant",
+      "level_min": 21,
+      "level_max": 25
+    }
+  ],
+  "621": [
+    {
+      "zone": "Caedarva Mire",
+      "monster": "Qiqirn Mireguide",
+      "level_min": 67,
+      "level_max": 69
+    },
+    {
+      "zone": "Caedarva Mire",
+      "monster": "Qiqirn Rock Hound",
+      "level_min": 67,
+      "level_max": 69
+    },
+    {
+      "zone": "Aydeewa Subterrane",
+      "monster": "Qiqirn Enterpriser",
+      "level_min": 68,
+      "level_max": 70
+    },
+    {
+      "zone": "Aydeewa Subterrane",
+      "monster": "Qiqirn Lieuter",
+      "level_min": 68,
+      "level_max": 70
+    },
+    {
+      "zone": "Aydeewa Subterrane",
+      "monster": "Qiqirn Mosstrooper",
+      "level_min": 73,
+      "level_max": 75
+    },
+    {
+      "zone": "Alzadaal Undersea Ruins",
+      "monster": "Qiqirn Goldsmith",
+      "level_min": 76,
+      "level_max": 77
+    }
+  ],
+  "622": [
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Giant Gatekeeper",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Giant Guard",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Giant Lobber",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Giant Sentry",
+      "level_min": 28,
+      "level_max": 30
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Giant Ascetic",
+      "level_min": 28,
+      "level_max": 31
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Giant Hunter",
+      "level_min": 28,
+      "level_max": 31
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Giant Ranger",
+      "level_min": 28,
+      "level_max": 31
+    },
+    {
+      "zone": "Qufim Island",
+      "monster": "Giant Trapper",
+      "level_min": 28,
+      "level_max": 31
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Giant Gatekeeper",
+      "level_min": 30,
+      "level_max": 32
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Giant Guard",
+      "level_min": 30,
+      "level_max": 32
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Giant Lobber",
+      "level_min": 30,
+      "level_max": 32
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Giant Sentry",
+      "level_min": 30,
+      "level_max": 32
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Gigas Jailer",
+      "level_min": 32,
+      "level_max": 34
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Gigas Kettlemaster",
+      "level_min": 32,
+      "level_max": 34
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Gigas Quarrier",
+      "level_min": 32,
+      "level_max": 34
+    },
+    {
+      "zone": "Middle Delkfutt's Tower",
+      "monster": "Gigas Wallwatcher",
+      "level_min": 32,
+      "level_max": 34
+    },
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Gigas Butcher",
+      "level_min": 34,
+      "level_max": 35
+    },
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Gigas Hallwatcher",
+      "level_min": 34,
+      "level_max": 35
+    },
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Gigas Punisher",
+      "level_min": 34,
+      "level_max": 35
+    },
+    {
+      "zone": "Lower Delkfutt's Tower",
+      "monster": "Gigas Sculptor",
+      "level_min": 34,
+      "level_max": 35
+    },
+    {
+      "zone": "Upper Delkfutt's Tower",
+      "monster": "Gigas Bonecutter",
+      "level_min": 34,
+      "level_max": 35
+    },
+    {
+      "zone": "Upper Delkfutt's Tower",
+      "monster": "Gigas Spirekeeper",
+      "level_min": 34,
+      "level_max": 35
+    },
+    {
+      "zone": "Upper Delkfutt's Tower",
+      "monster": "Gigas Stonemason",
+      "level_min": 34,
+      "level_max": 35
+    },
+    {
+      "zone": "Upper Delkfutt's Tower",
+      "monster": "Gigas Torturer",
+      "level_min": 34,
+      "level_max": 35
+    },
+    {
+      "zone": "Korroloka Tunnel",
+      "monster": "Gigas Foreman",
+      "level_min": 35,
+      "level_max": 37
+    },
+    {
+      "zone": "Korroloka Tunnel",
+      "monster": "Gigas Stonecarrier",
+      "level_min": 35,
+      "level_max": 37
+    },
+    {
+      "zone": "Korroloka Tunnel",
+      "monster": "Gigas Stonegrinder",
+      "level_min": 35,
+      "level_max": 37
+    },
+    {
+      "zone": "Korroloka Tunnel",
+      "monster": "Gigas Stonemason",
+      "level_min": 35,
+      "level_max": 37
+    },
+    {
+      "zone": "Lufaise Meadows",
+      "monster": "Gigas Fighter",
+      "level_min": 35,
+      "level_max": 38
+    },
+    {
+      "zone": "Lufaise Meadows",
+      "monster": "Gigas Slinger",
+      "level_min": 35,
+      "level_max": 38
+    },
+    {
+      "zone": "Lufaise Meadows",
+      "monster": "Gigas Wrestler",
+      "level_min": 35,
+      "level_max": 38
+    },
+    {
+      "zone": "Beaucedine Glacier",
+      "monster": "Cold Gigas",
+      "level_min": 40,
+      "level_max": 43
+    },
+    {
+      "zone": "Beaucedine Glacier",
+      "monster": "Rime Gigas",
+      "level_min": 40,
+      "level_max": 43
+    },
+    {
+      "zone": "Beaucedine Glacier",
+      "monster": "Sleet Gigas",
+      "level_min": 40,
+      "level_max": 43
+    },
+    {
+      "zone": "Beaucedine Glacier",
+      "monster": "Snow Gigas",
+      "level_min": 40,
+      "level_max": 43
+    }
+  ],
+  "623": [
+    {
+      "zone": "North Gustaberg",
+      "monster": "Amber Quadav",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "North Gustaberg",
+      "monster": "Amethyst Quadav",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "North Gustaberg",
+      "monster": "Young Quadav",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "Palborough Mines",
+      "monster": "Amber Quadav",
+      "level_min": 3,
+      "level_max": 10
+    },
+    {
+      "zone": "Palborough Mines",
+      "monster": "Amethyst Quadav",
+      "level_min": 3,
+      "level_max": 10
+    },
+    {
+      "zone": "Palborough Mines",
+      "monster": "Young Quadav",
+      "level_min": 3,
+      "level_max": 10
+    },
+    {
+      "zone": "South Gustaberg",
+      "monster": "Amber Quadav",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "South Gustaberg",
+      "monster": "Amethyst Quadav",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "South Gustaberg",
+      "monster": "Young Quadav",
+      "level_min": 3,
+      "level_max": 8
+    },
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Amber Quadav",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Amethyst Quadav",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Young Quadav",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Greater Quadav",
+      "level_min": 10,
+      "level_max": 16
+    },
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Onyx Quadav",
+      "level_min": 10,
+      "level_max": 16
+    },
+    {
+      "zone": "Konschtat Highlands",
+      "monster": "Veteran Quadav",
+      "level_min": 10,
+      "level_max": 16
+    },
+    {
+      "zone": "Palborough Mines",
+      "monster": "Greater Quadav",
+      "level_min": 11,
+      "level_max": 18
+    },
+    {
+      "zone": "Palborough Mines",
+      "monster": "Onyx Quadav",
+      "level_min": 11,
+      "level_max": 18
+    },
+    {
+      "zone": "Palborough Mines",
+      "monster": "Veteran Quadav",
+      "level_min": 11,
+      "level_max": 18
+    },
+    {
+      "zone": "Pashhow Marshlands",
+      "monster": "Greater Quadav",
+      "level_min": 16,
+      "level_max": 20
+    },
+    {
+      "zone": "Pashhow Marshlands",
+      "monster": "Onyx Quadav",
+      "level_min": 16,
+      "level_max": 20
+    },
+    {
+      "zone": "Pashhow Marshlands",
+      "monster": "Veteran Quadav",
+      "level_min": 16,
+      "level_max": 20
+    }
+  ],
+  "626": [
+    {
+      "zone": "Valkurm Dunes",
+      "monster": "Goblin Bounty Hunter",
+      "level_min": 17,
+      "level_max": 25
+    },
+    {
+      "zone": "Valkurm Dunes",
+      "monster": "Goblin Gambler",
+      "level_min": 22,
+      "level_max": 25
+    },
+    {
+      "zone": "Valkurm Dunes",
+      "monster": "Goblin Leecher",
+      "level_min": 22,
+      "level_max": 25
+    },
+    {
+      "zone": "Valkurm Dunes",
+      "monster": "Goblin Mugger",
+      "level_min": 22,
+      "level_max": 25
+    },
+    {
+      "zone": "Yuhtunga Jungle",
+      "monster": "Goblin Furrier",
+      "level_min": 32,
+      "level_max": 37
+    },
+    {
+      "zone": "Yuhtunga Jungle",
+      "monster": "Goblin Pathfinder",
+      "level_min": 32,
+      "level_max": 37
+    },
+    {
+      "zone": "Yuhtunga Jungle",
+      "monster": "Goblin Shaman",
+      "level_min": 32,
+      "level_max": 37
+    },
+    {
+      "zone": "Yuhtunga Jungle",
+      "monster": "Goblin Smithy",
+      "level_min": 32,
+      "level_max": 37
+    },
+    {
+      "zone": "Yuhtunga Jungle",
+      "monster": "Goblin Digger",
+      "level_min": 35,
+      "level_max": 38
+    }
+  ],
+  "628": [
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Goblin Fireman",
+      "level_min": 66,
+      "level_max": 69
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Goblin Foreman",
+      "level_min": 66,
+      "level_max": 69
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Goblin Lengthman",
+      "level_min": 66,
+      "level_max": 69
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Goblin Packman",
+      "level_min": 66,
+      "level_max": 69
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Moblin Draftsman",
+      "level_min": 66,
+      "level_max": 69
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Moblin Tankman",
+      "level_min": 66,
+      "level_max": 69
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Moblin Workman",
+      "level_min": 66,
+      "level_max": 69
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Moblin Yardman",
+      "level_min": 66,
+      "level_max": 69
+    }
+  ],
+  "629": [
+    {
+      "zone": "Oldton Movalpolos",
+      "monster": "Bugbear Servingman",
+      "level_min": 32,
+      "level_max": 35
+    },
+    {
+      "zone": "Oldton Movalpolos",
+      "monster": "Bugbear Bondman",
+      "level_min": 42,
+      "level_max": 45
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Bugbear Trashman",
+      "level_min": 65,
+      "level_max": 67
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Bugbear Watchman",
+      "level_min": 71,
+      "level_max": 76
+    },
+    {
+      "zone": "Newton Movalpolos",
+      "monster": "Bugbear Deathsman",
+      "level_min": 74,
+      "level_max": 76
+    }
+  ],
+  "631": [
+    { "zone": "Yuhtunga Jungle", "monster": "Creek Sahagin", "level_min": 34, "level_max": 38 },
+    { "zone": "Yuhtunga Jungle", "monster": "River Sahagin", "level_min": 34, "level_max": 38 },
+    { "zone": "Yuhtunga Jungle", "monster": "Stream Sahagin", "level_min": 34, "level_max": 38 },
+    { "zone": "Sea Serpent Grotto", "monster": "Brook Sahagin", "level_min": 41, "level_max": 48 },
+    { "zone": "Sea Serpent Grotto", "monster": "Rivulet Sahagin", "level_min": 41, "level_max": 48 },
+    { "zone": "Sea Serpent Grotto", "monster": "Marsh Sahagin", "level_min": 52, "level_max": 59 },
+    { "zone": "Sea Serpent Grotto", "monster": "Swamp Sahagin", "level_min": 52, "level_max": 59 },
+    { "zone": "Sea Serpent Grotto", "monster": "Bog Sahagin", "level_min": 52, "level_max": 59 }
+  ],
+  "632": [
+    { "zone": "Halvung", "monster": "Troll Cameist", "level_min": 71, "level_max": 75 },
+    { "zone": "Halvung", "monster": "Troll Engraver", "level_min": 71, "level_max": 75 },
+    { "zone": "Halvung", "monster": "Troll Gemologist", "level_min": 71, "level_max": 75 },
+    { "zone": "Halvung", "monster": "Troll Lapidarist", "level_min": 71, "level_max": 75 },
+    { "zone": "Bhaflau Thickets", "monster": "Troll Shieldbearer", "level_min": 71, "level_max": 73 },
+    { "zone": "Wajaom Woodlands", "monster": "Woodtroll Warrior", "level_min": 72, "level_max": 73 },
+    { "zone": "Wajaom Woodlands", "monster": "Woodtroll Dark Knight", "level_min": 72, "level_max": 73 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Paladin", "level_min": 79, "level_max": 83 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Warrior", "level_min": 80, "level_max": 82 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Dark Knight", "level_min": 79, "level_max": 83 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Monk", "level_min": 79, "level_max": 82 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Red Mage", "level_min": 79, "level_max": 82 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Puppetmaster", "level_min": 79, "level_max": 83 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Ranger", "level_min": 79, "level_max": 83 }
+  ],
+  "633": [
+    { "zone": "Bhaflau Thickets", "monster": "Troll Shieldbearer", "level_min": 72, "level_max": 73 },
+    { "zone": "Bhaflau Thickets", "monster": "Troll Sabreur", "level_min": 71, "level_max": 73 },
+    { "zone": "Bhaflau Thickets", "monster": "Troll Surveillant", "level_min": 71, "level_max": 73 },
+    { "zone": "Wajaom Woodlands", "monster": "Woodtroll Dark Knight", "level_min": 72, "level_max": 72 },
+    { "zone": "Wajaom Woodlands", "monster": "Woodtroll Monk", "level_min": 72, "level_max": 72 },
+    { "zone": "Wajaom Woodlands", "monster": "Woodtroll Ranger", "level_min": 72, "level_max": 72 },
+    { "zone": "Wajaom Woodlands", "monster": "Woodtroll Warrior", "level_min": 72, "level_max": 72 },
+    { "zone": "Halvung", "monster": "Troll Stoneworker", "level_min": 71, "level_max": 75 },
+    { "zone": "Halvung", "monster": "Troll Smelter", "level_min": 71, "level_max": 75 },
+    { "zone": "Halvung", "monster": "Troll Engraver", "level_min": 71, "level_max": 75 },
+    { "zone": "Halvung", "monster": "Troll Cameist", "level_min": 71, "level_max": 75 },
+    { "zone": "Halvung", "monster": "Troll Machinist", "level_min": 78, "level_max": 81 },
+    { "zone": "Halvung", "monster": "Troll Grenadier", "level_min": 78, "level_max": 81 },
+    { "zone": "Halvung", "monster": "Troll Cuirasser", "level_min": 78, "level_max": 81 },
+    { "zone": "Halvung", "monster": "Troll Artilleryman", "level_min": 78, "level_max": 81 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Puppetmaster", "level_min": 79, "level_max": 83 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Ranger", "level_min": 79, "level_max": 83 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Dark Knight", "level_min": 79, "level_max": 83 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Red Mage", "level_min": 79, "level_max": 82 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Monk", "level_min": 79, "level_max": 82 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Paladin", "level_min": 79, "level_max": 82 },
+    { "zone": "Mount Zhayolm", "monster": "Hilltroll Warrior", "level_min": 80, "level_max": 82 }
+  ],
+  "634": [
+    {
+      "zone": "Yhoator Jungle",
+      "monster": "Tonberry",
+      "level_min": 45,
+      "level_max": 49
+    },
+    {
+      "zone": "Temple of Uggalepih",
+      "monster": "Tonberry Cutter",
+      "level_min": 51,
+      "level_max": 59
+    }
+  ],
+  "636": [
+    { "zone": "Wajaom Woodlands", "monster": "Mamool Ja Bounder", "level_min": 72, "level_max": 73 },
+    { "zone": "Wajaom Woodlands", "monster": "Mamool Ja Mimicker", "level_min": 72, "level_max": 73 },
+    { "zone": "Wajaom Woodlands", "monster": "Mamool Ja Zenist", "level_min": 72, "level_max": 73 },
+    { "zone": "Mamook", "monster": "Mamool Ja Mimicker", "level_min": 73, "level_max": 75 },
+    { "zone": "Mamook", "monster": "Mamool Ja Zenist", "level_min": 73, "level_max": 75 },
+    { "zone": "Mamook", "monster": "Mamool Ja Bounder", "level_min": 73, "level_max": 75 },
+    { "zone": "Mamook", "monster": "Mamool Ja Spearman", "level_min": 73, "level_max": 75 },
+    { "zone": "Mamook", "monster": "Mamool Ja Strapper", "level_min": 74, "level_max": 75 },
+    { "zone": "Mamook", "monster": "Mamool Ja Mimer", "level_min": 74, "level_max": 75 }
+  ],
+  "637": [
+    {
+      "zone": "Wajaom Woodlands",
+      "monster": "Mamool Ja Savant",
+      "level_min": 73,
+      "level_max": 75,
+      "note": "Near the Mamook zone"
+    },
+    {
+      "zone": "Wajaom Woodlands",
+      "monster": "Mamool Ja Sophist",
+      "level_min": 73,
+      "level_max": 75,
+      "note": "Near the Mamook zone"
+    },
+    {
+      "zone": "Wajaom Woodlands",
+      "monster": "Mamool Ja Bounder",
+      "level_min": 73,
+      "level_max": 75,
+      "note": "Near the Mamook zone"
+    },
+    { "zone": "Mamook", "monster": "Mamool Ja Philosopher", "level_min": 81, "level_max": 83 },
+    { "zone": "Bhaflau Thickets", "monster": "Mamool Ja Philosopher", "level_min": 81, "level_max": 83 },
+    { "zone": "Mamook", "monster": "Mamool Ja Blusterer", "level_min": 81, "level_max": 83 },
+    { "zone": "Bhaflau Thickets", "monster": "Mamool Ja Blusterer", "level_min": 81, "level_max": 83 }
+  ],
+  "638": [
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Yagudo Acolyte",
+      "level_min": 1,
+      "level_max": 8
+    },
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Yagudo Initiate",
+      "level_min": 1,
+      "level_max": 8
+    },
+    {
+      "zone": "East Sarutabaruta",
+      "monster": "Yagudo Scribe",
+      "level_min": 1,
+      "level_max": 8
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Yagudo Acolyte",
+      "level_min": 3,
+      "level_max": 10
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Yagudo Initiate",
+      "level_min": 3,
+      "level_max": 10
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Yagudo Scribe",
+      "level_min": 3,
+      "level_max": 10
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "Yagudo Acolyte",
+      "level_min": 4,
+      "level_max": 8
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "Yagudo Initiate",
+      "level_min": 4,
+      "level_max": 8
+    },
+    {
+      "zone": "West Sarutabaruta",
+      "monster": "Yagudo Scribe",
+      "level_min": 4,
+      "level_max": 8
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Yagudo Acolyte",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Yagudo Initiate",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Yagudo Scribe",
+      "level_min": 8,
+      "level_max": 10
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Yagudo Mendicant",
+      "level_min": 11,
+      "level_max": 18
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Yagudo Persecutor",
+      "level_min": 11,
+      "level_max": 18
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Yagudo Piper",
+      "level_min": 11,
+      "level_max": 18
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Yagudo Mendicant",
+      "level_min": 12,
+      "level_max": 16
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Yagudo Persecutor",
+      "level_min": 12,
+      "level_max": 16
+    },
+    {
+      "zone": "Tahrongi Canyon",
+      "monster": "Yagudo Piper",
+      "level_min": 12,
+      "level_max": 16
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Yagudo Mendicant",
+      "level_min": 16,
+      "level_max": 20
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Yagudo Persecutor",
+      "level_min": 16,
+      "level_max": 20
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Yagudo Piper",
+      "level_min": 16,
+      "level_max": 20
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Yagudo Priest",
+      "level_min": 21,
+      "level_max": 28
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Yagudo Theologist",
+      "level_min": 21,
+      "level_max": 28
+    },
+    {
+      "zone": "Giddeus",
+      "monster": "Yagudo Votary",
+      "level_min": 21,
+      "level_max": 28
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Yagudo Priest",
+      "level_min": 21,
+      "level_max": 26
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Yagudo Theologist",
+      "level_min": 21,
+      "level_max": 26
+    },
+    {
+      "zone": "Meriphataud Mountains",
+      "monster": "Yagudo Votary",
+      "level_min": 21,
+      "level_max": 26
+    },
+    {
+      "zone": "Sauromugue Champaign",
+      "monster": "Yagudo Priest",
+      "level_min": 21,
+      "level_max": 27
+    },
+    {
+      "zone": "Sauromugue Champaign",
+      "monster": "Yagudo Theologist",
+      "level_min": 21,
+      "level_max": 27
+    },
+    {
+      "zone": "Sauromugue Champaign",
+      "monster": "Yagudo Votary",
+      "level_min": 21,
+      "level_max": 27
+    }
+  ],
+  "640": [
+    {
+      "zone": "Arrapago Reef",
+      "monster": "Merrow Icedancer",
+      "level_min": 73,
+      "level_max": 75
+    },
+    {
+      "zone": "Arrapago Reef",
+      "monster": "Merrow Kabukidancer",
+      "level_min": 73,
+      "level_max": 75
+    },
+    {
+      "zone": "Arrapago Reef",
+      "monster": "Merrow Chantress",
+      "level_min": 74,
+      "level_max": 75
+    },
+    {
+      "zone": "Arrapago Reef",
+      "monster": "Merrow Shadowdancer",
+      "level_min": 74,
+      "level_max": 75
+    }
+  ],
+  "641": [
+    { "zone": "Caedarva Mire", "monster": "Lamia Fatedealer", "level_min": 73, "level_max": 75, "note": "Confirmed" },
+    { "zone": "Arrapago Reef", "monster": "Lamia Fatedealer", "level_min": 74, "level_max": 74, "note": "Confirmed" },
+    { "zone": "Arrapago Reef", "monster": "Lamia Graverobber", "level_min": 73, "level_max": 75, "note": "Confirmed" },
+    { "zone": "Arrapago Reef", "monster": "Lamia Deathdancer", "level_min": 75, "level_max": 75 },
+    { "zone": "Arrapago Reef", "monster": "Lamia Dartist", "level_min": 73, "level_max": 75, "note": "Confirmed" },
+    { "zone": "Arrapago Reef", "monster": "Lamia Dancer", "level_min": 73, "level_max": 75 },
+    { "zone": "Arrapago Reef", "monster": "Lamia Palace Guard", "level_min": 999, "level_max": 999, "level_unknown": true, "note": "Confirmed" }
+  ],
+  "642": [
+    {
+      "zone": "Halvung",
+      "monster": "Black Pudding",
+      "level_min": 73,
+      "level_max": 75
+    },
+    {
+      "zone": "Mount Zhayolm",
+      "monster": "Ebony Pudding",
+      "level_min": 75,
+      "level_max": 80
+    },
+    {
+      "zone": "Nyzul Isle",
+      "monster": "Anise Custard",
+      "level_min": 79,
+      "level_max": 79
+    }
+  ],
+  "643": [
+    {
+      "zone": "Halvung",
+      "monster": "Wamouracampa",
+      "level_min": 73,
+      "level_max": 76
+    },
+    {
+      "zone": "Mount Zhayolm",
+      "monster": "Wamoura Prince",
+      "level_min": 79,
+      "level_max": 81
+    }
+  ],
+  "644": [
+    {
+      "zone": "Caedarva Mire",
+      "monster": "Soulflayer",
+      "level_min": 79,
+      "level_max": 82
+    },
+    {
+      "zone": "Arrapago Reef",
+      "monster": "Soulflayer",
+      "level_min": 82,
+      "level_max": 83
+    },
+    {
+      "zone": "Caedarva Mire",
+      "monster": "Mahjlaef the Paintorn",
+      "level_min": 82,
+      "level_max": 82
+    }
+  ],
+  "645": [
+    {
+      "zone": "Halvung",
+      "monster": "Wamoura",
+      "level_min": 77,
+      "level_max": 80
+    },
+    {
+      "zone": "Mount Zhayolm",
+      "monster": "Wamoura",
+      "level_min": 80,
+      "level_max": 82
+    }
+  ],
+  "646": [
+    {
+      "zone": "Mamook",
+      "monster": "Poroggo",
+      "level_min": 75,
+      "level_max": 77
+    },
+    {
+      "zone": "Nyzul Isle",
+      "monster": "Poroggo",
+      "level_min": 999,
+      "level_max": 999,
+      "level_unknown": true
+    }
+  ],
+  "647": [
+    {
+      "zone": "Wajaom Woodlands",
+      "monster": "Puk",
+      "level_min": 68,
+      "level_max": 70
+    },
+    {
+      "zone": "Mamook",
+      "monster": "Puk",
+      "level_min": 70,
+      "level_max": 72
+    },
+    {
+      "zone": "Mamook",
+      "monster": "Sea Puk",
+      "level_min": 76,
+      "level_max": 78
+    },
+    {
+      "zone": "Bhaflau Thickets",
+      "monster": "Sea Puk",
+      "level_min": 77,
+      "level_max": 78
+    }
+  ],
+  "667": [
+    {
+      "zone": "Promyvion - Dem",
+      "monster": "Wanderer",
+      "level_min": 22,
+      "level_max": 36
+    },
+    {
+      "zone": "Promyvion - Holla",
+      "monster": "Wanderer",
+      "level_min": 22,
+      "level_max": 36
+    },
+    {
+      "zone": "Promyvion - Mea",
+      "monster": "Wanderer",
+      "level_min": 22,
+      "level_max": 36
+    }
+  ],
+  "671": [
+    {
+      "zone": "Promyvion - Dem",
+      "monster": "Weeper",
+      "level_min": 25,
+      "level_max": 37
+    },
+    {
+      "zone": "Promyvion - Holla",
+      "monster": "Weeper",
+      "level_min": 25,
+      "level_max": 37
+    },
+    {
+      "zone": "Promyvion - Mea",
+      "monster": "Weeper",
+      "level_min": 25,
+      "level_max": 37
+    },
+    {
+      "zone": "Promyvion - Vahzl",
+      "monster": "Weeper",
+      "level_min": 50,
+      "level_max": 57
+    }
+  ],
+  "673": [
+    {
+      "zone": "Promyvion - Dem",
+      "monster": "Gorger",
+      "level_min": 29,
+      "level_max": 40
+    },
+    {
+      "zone": "Promyvion - Vahzl",
+      "monster": "Gorger",
+      "level_min": 52,
+      "level_max": 60
+    }
+  ],
+  "677": [
+    {
+      "zone": "Promyvion - Mea",
+      "monster": "Craver",
+      "level_min": 29,
+      "level_max": 40
+    },
+    {
+      "zone": "Promyvion - Vahzl",
+      "monster": "Craver",
+      "level_min": 52,
+      "level_max": 60
+    }
+  ],
+  "679": [
+    {
+      "zone": "Promyvion - Dem",
+      "monster": "Seether",
+      "level_min": 31,
+      "level_max": 38
+    },
+    {
+      "zone": "Promyvion - Holla",
+      "monster": "Seether",
+      "level_min": 31,
+      "level_max": 38
+    },
+    {
+      "zone": "Promyvion - Mea",
+      "monster": "Seether",
+      "level_min": 31,
+      "level_max": 38
+    },
+    {
+      "zone": "Promyvion - Vahzl",
+      "monster": "Seether",
+      "level_min": 51,
+      "level_max": 58
+    }
+  ],
+  "681": [
+    {
+      "zone": "Promyvion - Holla",
+      "monster": "Thinker",
+      "level_min": 28,
+      "level_max": 40
+    },
+    {
+      "zone": "Promyvion - Vahzl",
+      "monster": "Thinker",
+      "level_min": 52,
+      "level_max": 60
+    }
+  ]
+}
